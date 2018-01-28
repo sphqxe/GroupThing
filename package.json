@@ -1,0 +1,11 @@
+{
+  "name": "groupthing",
+  "version": "1.0.0",
+  "description": "By developers for developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Theodore Lee, Chan Khan",
+  "license": "ISC"
+}
